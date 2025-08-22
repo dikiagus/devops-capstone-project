@@ -1,7 +1,7 @@
 # DevOps Capstone Template
 
 
-![Build Status](https://github.com/dikiagus/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+[![CI Build](https://github.com/dikiagus/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/dikiagus/devops-capstone-project/actions/workflows/ci-build.yaml)
 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
